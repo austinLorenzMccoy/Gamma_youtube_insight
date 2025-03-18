@@ -1,0 +1,11 @@
+groq
+python-dotenv
+serpapi
+requests
+google-search-results
+youtube-transcript-api
+google-api-python-client
+gtts
+python-multipart
+uvicorn
+fastapi
